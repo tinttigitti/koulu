@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Maailman paras kotiprojekti
+=======
+Universumin paras kouluprojekti
+>>>>>>> d3618e18957dd3ef8d34310567f9b9e19f678e96
 
